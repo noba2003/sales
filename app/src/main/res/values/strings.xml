@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">sales</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="enter_repassword">enter repassword</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="register">Register</string>
+    <string name="exist">exist</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="sing_up">sing up</string>
+    <string name="login_with_email_google">login with email google</string>
+    <string name="login_with_email_facebook">login with email facebook</string>
+    <string name="login_with_meail_twitter">login with meail twitter</string>
+</resources>
